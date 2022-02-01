@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuqmanShibly
-- 👀 I’m interested in software and game development!
+- 👀 My main interests lie in software and game development!
 - 🌱 I’m currently studying computer science at the University of Washington
 - 📫 How to reach me: 
       - Instagram: luqman_shibly
