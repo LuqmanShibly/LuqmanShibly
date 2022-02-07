@@ -4,6 +4,6 @@
 - 📫 How to reach me: 
       - Instagram: luqman_shibly
       - email: luqmanshibly05@gmail.com
-      - snap: luqmanshibly
+      - Discord: luqman#8324
 
 I'm a freshman at the UW majoring in computer science.
